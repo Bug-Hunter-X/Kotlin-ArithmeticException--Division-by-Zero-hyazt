@@ -1,0 +1,1 @@
+This repository demonstrates a common error in Kotlin: attempting to divide by zero. The `calculate` function takes two integer inputs and returns their quotient.  The `main` function calls `calculate` with a divisor of 0, leading to an `ArithmeticException`. The solution demonstrates how to handle this exception gracefully.
